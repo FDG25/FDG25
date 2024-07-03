@@ -2,6 +2,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="25" height="25" />Skills
 
+💾<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Neutral%20Face.png" alt="Neutral Face" width="25" height="25" />EOF
+
 <!--
 **FDG25/FDG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
