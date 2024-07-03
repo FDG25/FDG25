@@ -5,7 +5,7 @@
 
 <br />
 
-### EOF.
+### -EOF.
 
 <!--
 **FDG25/FDG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
