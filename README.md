@@ -5,7 +5,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="25" height="25" />Bio
-* 24 y/o stupidest computer engineer<br /> 
+* 24 y/o computer engineer<br /> 
 * The biggest risk is not taking any risk📖
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Juggling%20Medium%20Skin%20Tone.png" alt="Person Juggling Medium Skin Tone" width="25" height="25" />Skills
