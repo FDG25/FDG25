@@ -1,8 +1,10 @@
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
 
+<!--
 <div align="center">
   <video src="https://github.com/FDG25/FDG25/assets/81115561/8aa84dc2-697a-4c50-afbe-5931917346a7" width="400" />
 </div>
+-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="25" height="25" />Bio
 * 24 y/o computer engineer<br /> 
